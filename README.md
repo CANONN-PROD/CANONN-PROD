@@ -15,7 +15,6 @@ Welcome to my corner of GitHub! I’m a passionate developer focused on building
 ### 💡 What I'm Up To
 - 🔭 **Currently Building:** Personal projects and open-source contributions.
 - 📚 **Currently Learning:** Deepening my knowledge in modern web development and system design.
-- 🤝 **Looking to Collaborate:** Always open to interesting open-source projects or fun tech ideas.
 - 📬 **Reach Out:** Feel free to check out my repositories or drop a line through my profile!
 
     </td>
