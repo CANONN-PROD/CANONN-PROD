@@ -20,7 +20,6 @@ Welcome to my corner of GitHub! I’m a passionate developer focused on building
 ### 📊 Activity Stats
 [![CANONN-PROD's Stats](https://github-stats-extended.vercel.app/api?username=CANONN-PROD&custom_title=Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=slateorange)](https://github.com/CANONN-PROD)
 
-    </td>
   </tr>
 </table>
 
